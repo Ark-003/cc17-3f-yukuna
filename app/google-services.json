@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495188093994",
+    "project_id": "yukuna-receivoo",
+    "storage_bucket": "yukuna-receivoo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495188093994:android:af756788529ee56652e753",
+        "android_client_info": {
+          "package_name": "com.example.yukuna_receivoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAByPBJWiBweH4US1AhOmvasygvWTR49qY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
